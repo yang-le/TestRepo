@@ -18,7 +18,7 @@ int main(int argc, char** argv)
     //定义窗口位置
     glutInitWindowPosition(100,100);
     //创建窗口
-    glutCreateWindow("testgl");
+    glutCreateWindow("helloGl");
 
     const char* version = (const char*)glGetString(GL_VERSION);
     printf("OpenGL 版本：%s\n", version);
