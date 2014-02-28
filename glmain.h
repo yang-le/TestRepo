@@ -1,7 +1,7 @@
 /*
  * glmain.h
  *
- *  Created on: 2014Äê2ÔÂ28ÈÕ
+ *  Created on: 2014/2/28
  *      Author: yangle
  */
 
